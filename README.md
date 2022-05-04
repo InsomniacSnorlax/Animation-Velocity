@@ -10,7 +10,7 @@ To begin first we would need to set up 2 float variables within a new animator w
 
 ![Animator Setup](https://user-images.githubusercontent.com/94978222/166681163-7c263213-e72b-45ec-9d62-71fdaa0e9f68.png)
 
-The Idle remains outside the secondary blend tree as it does not need to be controlled by angle. Moving forward, the image below will give you a rough idea of the angle and animations needed to achieve the desired effect and can be altered if more or fewer animations are being used.
+The Idle remains outside the secondary blend tree as it does not need to be controlled by angle. Moving forward, the image below will give you a rough idea of the angle and animations needed to achieve the desired effect and can be altered if more or fewer animations are being used. (Had some weird bug having it sometimes inverted of left and right angle)
 
 ![Blend Tree Setup](https://user-images.githubusercontent.com/94978222/166681112-a55d72c8-de19-4e5e-9c40-3e9c0c9c0659.png)
 
